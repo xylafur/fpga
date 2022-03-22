@@ -1,0 +1,9 @@
+*.*.un~
+*.asc
+*.bin
+*.json
+*.nplog
+*.rpt
+*.yslog
+*.vcd
+
